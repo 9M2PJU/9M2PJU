@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **9M2PJU**
 *Full‑stack developer • Amateur radio enthusiast • Open‑source lover*
 
-![Profile Banner](https://user-images.githubusercontent.com/your-id/banner.png)
+![Profile Banner](https://user-images.githubusercontent.com/9M2PJU/banner.png)
 
 ---
 
