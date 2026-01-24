@@ -1,6 +1,6 @@
 # <p align="center">📡 9M2PJU</p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Amateur+Radio+Enthusiast;Open-Source+Lover;Full-Stack+Developer;APRS+Web+Messenger+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Amateur+Radio+Enthusiast;Open-Source+Lover;APRS+Web+Messenger+Creator;Technology+Hobbyist" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **Amateur Radio Enthusiast** and **Developer** dedicated to bridging the gap between traditional radio communications and modern web technologies. My current focus is building robust, real-time applications for the APRS community.
+I am a passionate **Amateur Radio Enthusiast** and **Hobbyist** dedicated to bridging the gap between traditional radio communications and modern web technologies. My current focus is building robust, real-time applications for the APRS community.
 
 - 🌐 **Currently building:** [9M2PJU APRS Web Messenger](https://9M2PJU.github.io/9M2PJU-APRS-Web-Messenger) – A premium glassmorphic client.
 - 📦 **Open Source:** Active contributor to radio-related and CLI tooling projects.
