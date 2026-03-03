@@ -81,14 +81,19 @@ I am a passionate **Amateur Radio Enthusiast** and **Hobbyist** dedicated to bri
 
 ### 📈 GitHub Ecosystem
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=9M2PJU&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9M2PJU&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9M2PJU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=9M2PJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=9M2PJU&layout=compact&theme=tokyonight&hide_border=true" width="300" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9M2PJU&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
 
