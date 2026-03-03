@@ -79,21 +79,17 @@ I am a passionate **Amateur Radio Enthusiast** and **Hobbyist** dedicated to bri
 
 ---
 
-### 📈 GitHub Ecosystem
+### 📈 GitHub Activity
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=9M2PJU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=9M2PJU&layout=compact&theme=tokyonight&hide_border=true" width="300" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9M2PJU&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/y/9M2PJU?style=flat-square&color=2496ED&label=Commits" alt="Commits" />
+  <img src="https://img.shields.io/github/last-commit/9M2PJU/9M2PJU-APRS-Web-Messenger?style=flat-square&color=2496ED&label=Latest+Update" alt="Last Commit" />
+  <img src="https://img.shields.io/github/repo-size/9M2PJU/9M2PJU-APRS-Web-Messenger?style=flat-square&color=2496ED" alt="Repo Size" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=9M2PJU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
