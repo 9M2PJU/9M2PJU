@@ -2,7 +2,7 @@
 
 # 📡 9M2PJU
 
-**Licensed Amateur Radio Operator • Open Source Systems Engineer • Ubuntu Member**
+**Licensed Amateur Radio Operator • Open Source Systems & APRS Engineering**
 
 [![Website](https://img.shields.io/badge/website-9m2pju.github.io-06b6d4.svg)](https://9m2pju.github.io/)
 [![Blog](https://img.shields.io/badge/blog-hamradio.my-f59e0b.svg)](https://hamradio.my)
@@ -20,7 +20,6 @@
 ## 🌟 About Me
 
 - 📻 **Callsign:** **9M2PJU** (Amateur Radio Station based in Kuala Lumpur, Malaysia)
-- 🏢 **Affiliations:** Active Member of **MARTS** (Malaysian Amateur Radio Transmitters' Society) and recognized **Ubuntu Member**
 - ✍️ **Technical Writer:** Founder and author at **[hamradio.my](https://hamradio.my)** covering amateur radio theory, antenna design, digital modes, and Linux radio integrations
 
 ---
