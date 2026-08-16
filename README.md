@@ -9,14 +9,13 @@ Amateur radio station located in Kuala Lumpur, Malaysia (Grid Locator: `OJ03`).
 ## Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9M2PJU&theme=react-dark&hide_border=true&area=true" width="100%" alt="9M2PJU Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9M2PJU&theme=react-dark&hide_border=true&area=true" width="100%" alt="9M2PJU Contribution Activity Graph" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=9M2PJU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9M2PJU&theme=tokyonight" alt="GitHub Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9M2PJU&theme=tokyonight" alt="GitHub Stats Summary" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9M2PJU&theme=tokyonight" alt="Profile Details" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9M2PJU&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9M2PJU&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=9M2PJU&theme=tokyonight" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9M2PJU&theme=tokyonight" alt="Most Committed Languages" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=9M2PJU&theme=tokyonight&utcOffset=8" alt="Productive Time (UTC+8)" />
 </div>
