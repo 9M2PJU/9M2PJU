@@ -61,17 +61,6 @@ I actively maintain PKGBUILDs on the **Arch Linux User Repository (AUR)** for di
 
 ---
 
-## 🧰 Technical Skills & Tooling
-
-```text
-📻 Radio Tech : APRS · AX.25 · KISS TNC · LoRa SX126x/SX127x · VarAC · Direwolf · Hamlib
-🐧 Linux / OS : Ubuntu · Arch Linux · Debian · FreeBSD · systemd · Shell Scripting (Bash/POSIX)
-🐳 DevOps/CI  : Docker · Docker Compose · GitHub Actions CI/CD · GHCR · Multi-Arch Builds
-💻 Code/Build : C · C++ · Perl · Python · Make · CMake · Autotools · PKGBUILD / RPM / DEB
-```
-
----
-
 ## 📬 Connect with 9M2PJU
 
 - 🌐 **Personal Portal:** [https://9m2pju.github.io/](https://9m2pju.github.io/)
