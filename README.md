@@ -25,6 +25,17 @@ I maintain several amateur radio tools on the Arch User Repository:
 
 ---
 
+## GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9M2PJU&theme=react-dark&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=9M2PJU&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=9M2PJU&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
 ## Contact & Links
 
 - **Blog:** [hamradio.my](https://hamradio.my)
