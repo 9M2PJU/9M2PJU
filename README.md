@@ -31,8 +31,6 @@
 | **Callsign** | `9M2PJU` |
 | **Grid Square** | `OJ03` (Kuala Lumpur, Malaysia) |
 | **ITU / CQ Zone** | Zone 54 / Zone 28 |
-| **APRS National Frequency** | `144.390 MHz` (2-meter VHF) |
-| **Operating Modes** | APRS, LoRa APRS, VarAC, FT8, JS8Call, Packet Radio (AX.25), SSB Voice |
 
 ---
 
