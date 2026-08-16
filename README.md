@@ -22,7 +22,6 @@
 - 📻 **Callsign:** **9M2PJU** (Amateur Radio Station based in Kuala Lumpur, Malaysia)
 - 🏢 **Affiliations:** Active Member of **MARTS** (Malaysian Amateur Radio Transmitters' Society) and recognized **Ubuntu Member**
 - ✍️ **Technical Writer:** Founder and author at **[hamradio.my](https://hamradio.my)** covering amateur radio theory, antenna design, digital modes, and Linux radio integrations
-- 🛠️ **Focus Areas:** APRS / AX.25 infrastructure, LoRa packet telemetry, VarAC emergency communication, Dockerized ham systems, and Arch Linux AUR packaging
 
 ---
 
