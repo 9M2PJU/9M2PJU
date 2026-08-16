@@ -48,12 +48,6 @@ Next-generation open-source amateur radio telemetry station, space weather propa
 ### 🛰️ [MeshBeacon & LoRa APRS Gateway](https://github.com/9M2PJU/meshbeacon)
 Off-grid telemetry and disaster communications bridge linking local LoRa mesh networks with global APRS-IS servers for emergency tracking and SAR operations.
 
-### 🌐 [DXSpider Containerized Cluster](https://github.com/9M2PJU/9M2PJU-DXSpider)
-Production-grade, Docker Compose deployment stack for DXSpider amateur radio DX cluster nodes with automated filtering and web dashboards.
-
-### ⛰️ [Malaysian Outdoor Radiosport (9M2SOTA / PPOTA)](https://github.com/9M2PJU/9m2sota)
-GIS mapping portals, logging automation, and summit tracker systems for Malaysian Summits on the Air (SOTA) and Parks & Peaks on the Air (PPOTA).
-
 ---
 
 ## 🛠️ Arch Linux AUR Maintenance
