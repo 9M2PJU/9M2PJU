@@ -12,8 +12,7 @@ Amateur radio station located in Kuala Lumpur, Malaysia (Grid Locator: `OJ03`).
 ## Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=9M2PJU&theme=react-dark&hide_border=true&area=true" width="100%" alt="9M2PJU Contribution Activity Graph" />
-  <br><br>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=9M2PJU&theme=tokyonight" alt="GitHub Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=9M2PJU&theme=tokyonight" alt="GitHub Stats Summary" />
   <br><br>
