@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=9M2PJU&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Amateur%20Radio%20%E2%80%A2%20Open%20Source%20Builder%20%E2%80%A2%20Kuala%20Lumpur&descAlignY=60&descSize=17" alt="9M2PJU header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:7aa2f7&height=200&section=header&text=9M2PJU&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Amateur%20Radio%20%E2%80%A2%20Kuala%20Lumpur%20%E2%80%A2%20OJ03&descAlignY=60&descSize=17" alt="9M2PJU header" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Amateur+Radio+Operator+%F0%9F%93%A1+OJ03;Open-Source+Builder+%7C+ESP32+%7C+Linux+%7C+Docker;DX+Cluster+%7C+APRS+%7C+Digital+Modes+%7C+EmComm;Kuala+Lumpur%2C+Malaysia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Amateur+Radio+Operator+%F0%9F%93%A1+OJ03;ESP32+%7C+Linux+%7C+Docker+%7C+APRS;DX+Cluster+%7C+Digital+Modes+%7C+EmComm;Kuala+Lumpur%2C+Malaysia)](https://git.io/typing-svg)
 
 **Kuala Lumpur, Malaysia · Grid `OJ03` · UTC+8**
 
@@ -12,7 +12,7 @@
 [![AUR](https://img.shields.io/badge/AUR-Packages-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://aur.archlinux.org/packages?K=9M2PJU)
 [![Email](https://img.shields.io/badge/Email-9m2pju%40gmail.com-c678dd?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9m2pju@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=9M2PJU&color=7aa2f7&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=9M2PJU.9M2PJU&left_color=%231a1b26&right_color=%237aa2f7)
 ![Followers](https://img.shields.io/github/followers/9M2PJU?style=flat&color=7aa2f7&label=Followers)
 ![Stars](https://img.shields.io/github/stars/9M2PJU?style=flat&color=7aa2f7&label=Stars)
 
