@@ -64,7 +64,6 @@
 | **QTH** | Kuala Lumpur, Malaysia |
 | **Grid** | `OJ03` |
 | **QRZ** | [qrz.com/db/9M2PJU](https://www.qrz.com/db/9M2PJU) |
-| **Interests** | DX Cluster · APRS / LoRa APRS · DMR / D-Star · Fox Hunt · POTA / SOTA · EmComm |
 
 </div>
 
