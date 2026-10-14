@@ -24,7 +24,6 @@
 
 > Amateur radio station **9M2PJU** — practical tools for the global ham community.
 
-- 📡 **HF / VHF / UHF** — DX, APRS, digital modes, EmComm
 - 🛠️ Focus areas: **DX Clusters, ESP32 firmware, web utilities, Linux packages, Android mods**
 - 📦 **AUR packages** for ham radio software
 - ✍️ Articles and guides at **[hamradio.my](https://hamradio.my)**
