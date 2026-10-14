@@ -20,16 +20,15 @@
 
 ---
 
-## 👋 About Me
+## 📡 About Station
 
-> Amateur radio station **9M2PJU** — building practical, open-source tools for the global ham community.
+> Amateur radio station **9M2PJU** — practical tools for the global ham community.
 
-- 📡 Active on **HF / VHF / UHF** — DX, APRS, digital modes, EmComm
-- 🛠️ I build: **DX Clusters, ESP32 firmware, web utilities, Linux packages, Android mods**
-- 🐧 Daily driver: **CachyOS / Arch Linux + Hyprland** on ThinkPad T460
-- 📦 Maintainer of several **AUR packages** for ham radio software
-- ✍️ I write about radio & tech at **[hamradio.my](https://hamradio.my)**
-- 📍 **Kuala Lumpur, Malaysia** — Grid Locator `OJ03`
+- 📡 **HF / VHF / UHF** — DX, APRS, digital modes, EmComm
+- 🛠️ Focus areas: **DX Clusters, ESP32 firmware, web utilities, Linux packages, Android mods**
+- 📦 **AUR packages** for ham radio software
+- ✍️ Articles and guides at **[hamradio.my](https://hamradio.my)**
+- 📍 **Kuala Lumpur, Malaysia** — Grid `OJ03`
 
 ---
 
